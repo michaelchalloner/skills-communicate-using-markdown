@@ -12,3 +12,7 @@
 
 
 This visual representation shows all 6 header styles available in markdown
+
+# Adding an image 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
