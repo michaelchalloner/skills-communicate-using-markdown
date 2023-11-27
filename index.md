@@ -25,3 +25,9 @@ This visual representation shows all 6 header styles available in markdown
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git
 ```
+
+# Add a Task List
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world 
