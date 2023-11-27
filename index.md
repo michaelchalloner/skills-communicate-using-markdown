@@ -13,6 +13,15 @@
 
 This visual representation shows all 6 header styles available in markdown
 
-# Adding an image 
+# Adding an Image 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+
+# Add Code Examples
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git
+```
